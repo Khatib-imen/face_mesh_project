@@ -1,2 +1,1 @@
-python3.10 -m venv venv
-source venv/bin/activate
+python-3.8
